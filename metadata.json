@@ -1,0 +1,5 @@
+{
+  "name": "ClinRx: AI Drug Interaction Checker",
+  "description": "An AI-powered clinical pharmacology assistant that analyzes multi-drug regimens for interaction risks and proposes safer, evidence-based alternatives for clinicians and patients.",
+  "requestFramePermissions": []
+}
